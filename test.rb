@@ -7,3 +7,4 @@ h1 = Time.at(temps_activite)
 h2 = Time.at(temps_inactivite)
 puts "le temps d'activité du serveur #{time.strftime("%H:%M:%S")} up #{h1}"
 puts "le temps d'inactivité du serveur #{time.strftime("%H:%M:%S")} idle #{h2}"
+puts "youpi ça fonctionne"
